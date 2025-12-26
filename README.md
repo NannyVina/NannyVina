@@ -3,10 +3,10 @@
   <img align="right" src="https://readme-stats-fast.vercel.app/api?username=NannyVina&show_icons=true&theme=transparent&hide_border=true&title_color=FFB7C5&text_color=EBD9FF&icon_color=FFB7C5&hide=stars&count_private=true" />
   
   <h3 style="color: #EBD9FF;">:: <span style="color: #FFB7C5;">blah</span> blah blah</h3>
-  a <b>1st year cs student</b> trying to survive uni without blowing anything up (yet). 
+  a <b>1st year cs student</b> trying to survive uni. 
   currently hyperfixated on <span style="color: #FFB7C5;"><b>arcane</b></span>.
   <br><br> 
-  this is kinda my junkyard? so expect <i>smol experiments</i>, half-broken ideas, and noodle code that <span style="color: #EBD9FF;">works...</span> <span style="color: #E29696;">when it feels like it...</span>
+  this is my junkyard so expect <i>smol experiments</i>, half-broken ideas, and noodle code that <span style="color: #EBD9FF;">works...</span> <span style="color: #E29696;">when it feels like it...</span>
   <br><br>
   
   <h3 style="color: #EBD9FF;">:: some <span style="color: #FFB7C5;">stuffs</span> ik</h3>
