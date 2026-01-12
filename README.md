@@ -6,7 +6,7 @@
   a 1st year cs student trying to survive uni. 
   currently hyperfixated on arcane.
   <br><br>
-  i work on backends & speclize in building highly optimized web spiders & scrapers for harvesting massive data.
+  i work on backends & speclize in building highly optimized web spiders & scrapers for harvesting data.
   <br>
   
   <h3 style="color: #EBD9FF;">:: some <span style="color: #FFB7C5;">stuffs</span> ik</h3>
