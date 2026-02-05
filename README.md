@@ -1,6 +1,6 @@
 > A sleep-deprived first-year CSE student currently hyperfixated on **[Arcane](https://www.netflix.com/in/title/81435684)**.
 
-I focus mostly on backend and desktop apps. Although my specialty is in building highly optimized web crawlers and scrapers. Outside of standard backend/frontend, I enjoy game modding and pentesting.
+I focus mostly on backend and desktop apps. Although my specialty is in building highly optimized web crawlers and scrapers. <br>Outside of standard backend/frontend, I enjoy game modding and pentesting.
 
 **Tech Stack**
 
@@ -12,7 +12,6 @@ I focus mostly on backend and desktop apps. Although my specialty is in building
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" alt="Python" />
   <!-- UI -->
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" height="22" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt3-00DC82?style=flat-square&logo=nuxt&logoColor=white" height="22" alt="Nuxt" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" height="22" alt="Blazor" />
   <!-- Low Level -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="22" alt="OpenCV" />
